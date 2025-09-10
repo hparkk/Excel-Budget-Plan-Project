@@ -9,7 +9,7 @@ This is an Excel-based budget dashboard to track income, expenses, and savings. 
 
 ## Screenshot
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard.png.png)
 
 ## How to Use
 
