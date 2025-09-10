@@ -7,10 +7,6 @@ This is an Excel-based budget dashboard to track income, expenses, and savings. 
 - **Progress bars**: Compare Planned vs Actual spending per category.
 - **Optional line chart**: Tracks income vs expenses over time.
 
-## Screenshot
-
-![Dashboard Screenshot](images/dashboard.png.png)
-
 ## How to Use
 
 1. Open `Budget_Dashboard.xlsx` in Excel.
