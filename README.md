@@ -22,6 +22,5 @@ This is an Excel-based budget dashboard to track income, expenses, and savings. 
 
 ## Purpose
 
-I created this Budget Dashboard to practice and strengthen my Excel skills, including formulas, charts, and data visualization.  
-This project helped me apply practical Excel techniques while building a functional personal finance tool.
+I created this Budget Dashboard to practice and strengthen my Excel skills, including formulas, charts, and data visualization. This project helped me apply practical Excel techniques while building a functional personal finance tool.
 
